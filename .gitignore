@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+Case_3/eurosat
+
+# Jupyter / VS Code
+.ipynb_checkpoints/
+.vscode/
